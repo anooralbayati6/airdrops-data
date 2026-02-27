@@ -1,0 +1,14 @@
+[
+  {
+    "name": "zkSync",
+    "description": "Early user reward campaign",
+    "url": "https://zksync.io",
+    "status": "Potential"
+  },
+  {
+    "name": "LayerZero",
+    "description": "Retroactive reward expected",
+    "url": "https://layerzero.network",
+    "status": "Confirmed"
+  }
+]
