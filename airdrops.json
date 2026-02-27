@@ -1,16 +1,30 @@
 [
   {
-    "name": "zkSync",
-    "description": "Early user reward campaign",
+    "name": "ZkSync",
+    "description": "Layer 2 Airdrop",
     "url": "https://zksync.io",
-    "status": "Potential",
-    "image": "https://assets.coingecko.com/coins/images/11099/large/zkSync-logo.png"
+    "status": "Confirmed",
+    "image": "https://assets.coingecko.com/coins/images/11099/large/zksync-logo.png"
   },
   {
     "name": "LayerZero",
-    "description": "Retroactive reward expected",
+    "description": "Cross-chain protocol airdrop",
     "url": "https://layerzero.network",
-    "status": "Confirmed",
+    "status": "Potential",
     "image": "https://assets.coingecko.com/coins/images/28206/large/layerzero.png"
+  },
+  {
+    "name": "Scroll",
+    "description": "Ethereum zk-rollup project",
+    "url": "https://scroll.io",
+    "status": "Rumored",
+    "image": "https://assets.coingecko.com/coins/images/12345/large/scroll.png"
+  },
+  {
+    "name": "StarkNet",
+    "description": "ZK scalability solution",
+    "url": "https://starknet.io",
+    "status": "Confirmed",
+    "image": "https://assets.coingecko.com/coins/images/26433/large/starknet.png"
   }
 ]
